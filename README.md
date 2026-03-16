@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Vishal%20Pathak&fontSize=80&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=rimjhim%20Gutam&fontSize=80&animation=twinkling&fontAlignY=40" width="100%"/>
 
 ### ⚡ AI Architect & Python Visionary ⚡
 
