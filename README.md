@@ -32,7 +32,7 @@
 
 ### 🏆 Coding Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rimjhim Singh &theme=tokyonight&no-bg=true&margin-w=15&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=panditvishalpathak&theme=tokyonight&no-bg=true&margin-w=15&column=7" width="100%" />
 </p>
 
 ---
@@ -60,17 +60,17 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rimjhim Singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panditvishalpathak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimjhimsingh&layout=compact&theme=tokyonight&border_radius=10" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panditvishalpathak&layout=compact&theme=tokyonight&border_radius=10" />
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimjhimsingh&theme=tokyonight&hide_border=false&border_radius=10" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panditvishalpathak&theme=tokyonight&hide_border=false&border_radius=10" width="100%" />
 </p>
 
 ---
@@ -78,8 +78,8 @@
 ### 🐍 The Contribution Game
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimjhimsingh/rimjhimsingh/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake" src="https://raw.githubusercontent.com/rimjhimsingh/rimjhimsingh/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/panditvishalpathak/panditvishalpathak/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake" src="https://raw.githubusercontent.com/rimjhimsingh/panditvishalpathak/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
